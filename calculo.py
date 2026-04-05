@@ -4,3 +4,6 @@ def calcular_total(preco, taxa):
     resultado = preco + taxa 
 
     return resultado
+
+
+# Final do arquivo
